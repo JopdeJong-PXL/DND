@@ -1,0 +1,5 @@
+Name: Greatsword
+Weight: 6.00
+Cost: 50 gp
+Description: 
+
